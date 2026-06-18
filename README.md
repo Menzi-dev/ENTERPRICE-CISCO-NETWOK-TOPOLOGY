@@ -54,8 +54,7 @@ Enterprise-Campus-Network-Topology/
 ├── Campus_Network_Topology.pkt
 ├── README.md
 ├── PROJECT_DOCUMENTATION.docx
-├── configurations/
-└── screenshots/
+
 ```
 
 ---
