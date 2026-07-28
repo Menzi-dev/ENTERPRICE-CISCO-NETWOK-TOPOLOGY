@@ -76,7 +76,8 @@ Enterprise-Campus-Network-Topology/
 2. Open `Campus_Network_Topology.pkt`.
 3. Explore device configurations using CLI and Simulation Mode.
 
----
+---<img width="1506" height="613" alt="Screenshot 2026-06-18 094710" src="https://github.com/user-attachments/assets/46b972fc-e1aa-4dc0-99fe-13a97fbede48" />
+
 
 ## Author
 
